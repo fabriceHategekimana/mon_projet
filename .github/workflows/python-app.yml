@@ -27,4 +27,4 @@ jobs:
   
     - name: Generate data
       run: |
-        python3 order_generator.py
+        ls
